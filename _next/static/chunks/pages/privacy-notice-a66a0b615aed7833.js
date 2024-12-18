@@ -87,28 +87,15 @@
                       (0, a.jsx)("a", {
                         style: { color: "#8CEA69" },
                         target: "_blank",
-                        href: "http://www.versax.io/",
-                        children: "www.versax.io",
-                      }),
-                      ".",
-                    ],
-                  }),
-                  (0, a.jsxs)("p", {
-                    children: [
-                      'If you have any questions or wish to exercise any right related to this privacy statement, please contact info@versax.io. If you believe that your right to personal data protection has been violated, as well as ARCO rights, you can also go to the National Authority for Transparency and Access to Information "ANTAI", whose website is',
-                      " ",
-                      (0, a.jsx)("a", {
-                        style: { color: "#8CEA69" },
-                        target: "_blank",
-                        href: "https://www.antai.gob.pa/",
-                        children: "https://www.antai.gob.pa/",
+                        href: "https://luma-x-ai.vercel.app/",
+                        children: "luma-x-ai.vercel.app/",
                       }),
                       ".",
                     ],
                   }),
                   (0, a.jsx)("p", {
                     children:
-                      'This privacy notice has been created based on the rules issued under Law 81 of 2019 on "Personal Data Protection" and Executive Decree No. 285 of May 28, 2021, which regulates Law 81 of 2019 on Personal Data Protection.',
+                      'This privacy notice has been created based on the rules issued under Law 81 of 2019 on "Personal Data Protection" and Executive Decree No. 285 of May 28, 2021, which regulates Law 81 of 2024 on Personal Data Protection.',
                   }),
                 ],
               }),

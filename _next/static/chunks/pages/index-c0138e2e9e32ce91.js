@@ -552,7 +552,7 @@
                       }),
                       (0, r.jsx)("div", {
                         children: (0, r.jsx)(nn, {
-                          href: "vercel-app",
+                          href: "https://luma-x-ai-app.vercel.app/",
                           target: "_blank",
                           children: (0, r.jsx)(nr, {
                             children: "START TRADING WITH LumaX",
@@ -4192,7 +4192,7 @@
                           justifyContent: "center",
                           textAlign: "center",
                         },
-                        href: "vercel-app",
+                        href: "https://luma-x-ai-app.vercel.app/",
                         target: "_blank",
                         children: (0, r.jsx)(nr, {
                           style: { margin: "auto" },

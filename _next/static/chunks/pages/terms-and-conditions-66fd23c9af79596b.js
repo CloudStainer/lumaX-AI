@@ -36,7 +36,7 @@
                 }),
                 (0, i.jsx)("p", {
                   children:
-                    "By accessing and/or using this website located at https://www.versax.io/ (“Interface”, “LumaDex” or “Website”), using and/or accessing the tools and information made available via the Interface, and using and/or accessing the Protocols available through it, the User agrees that: (i) User has read and understood these Terms; and (ii) User shall be bound by these Terms, which set forth legally binding terms and conditions between User and the Interface.",
+                    "By accessing and/or using this website located at https://luma-x-ai.vercel.app/ (“Interface”, “LumaDex” or “Website”), using and/or accessing the tools and information made available via the Interface, and using and/or accessing the Protocols available through it, the User agrees that: (i) User has read and understood these Terms; and (ii) User shall be bound by these Terms, which set forth legally binding terms and conditions between User and the Interface.",
                 }),
                 (0, i.jsx)("p", {
                   children:
